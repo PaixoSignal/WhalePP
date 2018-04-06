@@ -12,6 +12,11 @@ Esta herramienta es para uso exclusivo de los miembros del Whale PP Club, un ase
 Para obtener más información acerca de otros proyectos, ideas y desarrollos relacionados con la provisión de soluciones financieras, puede contactarnos.
 DEVOP@PAIXO.INFO
 
+    # v 2.0.0
+    # -Set_VoT.set    *Configuracion de prueba en cuenta real
+    # -SETBCK    *Configuracion de prueba en backtesting
+    # -VoT_TPL.tpl    *Plantilla de indicadores
+
                    ========= VVT_EA ==========
                    ========= ASESOR EXPERTO ==
                    ========= METATRADER ======
