@@ -11,7 +11,6 @@ Esta herramienta es para uso exclusivo de los miembros del Whale PP Club, un ase
 Para obtener más información acerca de otros proyectos, ideas y desarrollos relacionados con la provisión de soluciones financieras, puede contactarnos.
 DEVOP@PAIXO.INFO
 
-# Esta herramienta es para uso de los miembros de Paixo_Signal 
 ============================ VVT_EA ============================
 ============================ ASESOR EXPERTO ============================
 ============================ METATRADER ============================
