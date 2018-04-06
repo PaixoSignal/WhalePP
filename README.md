@@ -25,32 +25,35 @@ DEVOP@PAIXO.INFO
     === si por el contrario es de 3 ó 5 digitos configura StopLoss y TakeProfit en un rango de 1-10 x punto ===
     === Configura el numero de cada orden (orden_magica) ===
     === la cantidad de operaciones y el espacio entre cada operacion, si vas a usar OPERACION_AL_MERCADO el 
-    valor de distancia    debe ser 0 ===
+    valor de distancia debe ser 0 ===
     === configura la distancia para operaciones STOP ó LIMIT, y slippage para ajustar el valor maximos (en pips)
     en COMPRA o VENTA)===
     === Activar el trailing-stop y/ó breakeven, agrega el valor de umbral, paso, y marca ===
     === si no quieres utilizar estas caracteristicas, deja los valores en 0 ===
     === Ingresa tu numero de acceso al servicio, si estas en cuenta demo puedes dejarlo en 0 y probarlo ===
-    === si lo vas a usar con propositos comerciales para uso en cuenta real, por favor comunicate al siguiente 
-    correo ===
+    === si lo vas a usar con propositos comerciales para uso en cuenta real, por favor comunicate al 
+    siguiente correo ===
     === ------------------------devOp@paixo.info----------------------------------- ===
-    === Puedes configurar los tipos de operacion segun la estrategia zigzag combinada con fibonnaci, bear, bull,
-    segun la nesecidad del mercado ===
-    === FIBONACCI//BEAR_CICLO&&BULL_CICLO(AMBOS SE USAN AL MISMO TIEMPO)//BOLLINGER_BANDAS//BOLLINGER_FIBONACCI ===    
+    === Puedes configurar los tipos de operacion segun la estrategia zigzag combinada con fibonnaci, 
+    bear, bull segun la nesecidad del mercado ===
+    === FIBONACCI//BEAR_CICLO&&BULL_CICLO(AMBOS SE USAN AL MISMO TIEMPO)//BOLLINGER_BANDAS//
+    BOLLINGER_FIBONACCI ===    
     === Selecciona las opciones adicionales de operación ===
-    === Cerrar en beneficio de sesión le permite configurar un valor total de beneficio, para cerrar las operaciones
+    === Cerrar en beneficio de sesión le permite configurar un valor total de beneficio, para 
+    cerrar las operaciones
     una vez se logre el limite (beneficio_de_sesion) ===
-    === Salir en señal opuesta, permite recibir las señales de salida segun los indicadores, para cerrar las 
-    ordenes si cambian de curso al momento de abrirse ===
+    === Salir en señal opuesta, permite recibir las señales de salida segun los indicadores, para cerrar 
+    las ordenes si cambian de curso al momento de abrirse ===
     === Operación al mercado, habilita las operaciones para que sean comercializadas al valor del mercado ===
     === Configure el StopLossVirtual y el TakeProfitVirtual solo si esta realizando operaciones al mercado. ===
     === si esta realizando operacion con distancia STOP ó LIMIT no utilize estos valores. ===
-    === Selecciona un tipo de manejo de dinero para tus recursos, puedes realizar las ordenes segun los parametros 
-    de riesgo que definas ===
-    === Lote fijo, recoje los valores de StopLoss y TakeProfit para realizar la inversion en una orden no modificable ===
+    === Selecciona un tipo de manejo de dinero para tus recursos, puedes realizar las ordenes segun los 
+    parametros de riesgo que definas ===
+    === Lote fijo, recoje los valores de StopLoss y TakeProfit para realizar la inversion en una orden 
+    no modificable ===
     === Porcentaje riesgo, ingresa el valor de riesgo (en porcentaje % sobre el valor total de la orden) ===
-    === Radio fijo, ingresa el tamaño del lote (radio_fijo_lote) y los puntos en riesgo(radio_fijo_por) para la 
-    serie de ordenes ===
+    === Radio fijo, ingresa el tamaño del lote (radio_fijo_lote) y los puntos en riesgo(radio_fijo_por) 
+    para la serie de ordenes ===
     === Riesgo fijo, valor de riesgo en porcentual sobre el balance total de la cuenta ===
     === Riesgo fijo por punto, establece un valor de riesgo del set de ordenes en puntos (Point) ===
 
