@@ -1,0 +1,183 @@
+_i_============================= VVT_EA ============================
+i__============================= ASESOR EXPERTO ============================
+__i============================= METATRADER ============================
+_============= Configura el tamaño del lote de acuerdo a la información de limite máximo ó minimo segun el broker ==============
+__============= si tienes un broker de 4 ó 2 digitos configura StopLoss y TakeProfit en un rango de 1-100 x punto ===============
+___============= si por el contrario es de 3 ó 5 digitos configura StopLoss y TakeProfit en un rango de 1-10 x punto =============
+Lotaje=0.50000000
+Lotaje,F=0
+Lotaje,1=0.00000000
+Lotaje,2=0.00000000
+Lotaje,3=0.00000000
+StopLoss=0
+StopLoss,F=0
+StopLoss,1=0
+StopLoss,2=0
+StopLoss,3=0
+TakeProfit=0
+TakeProfit,F=0
+TakeProfit,1=0
+TakeProfit,2=0
+TakeProfit,3=0
+____============= Configura el numero de cada orden (orden_magica) ============
+_____============= la cantidad de operaciones y el espacio entre cada operacion, si vas a usar OPERACION_AL_MERCADO el valor de distancia debe ser 0 ============
+___________________________============= configura la distancia para operaciones STOP ó LIMIT, y slippage para ajustar el valor maximos (en pips) en COMPRA o VENTA)  ============
+Distancia=10
+Distancia,F=0
+Distancia,1=0
+Distancia,2=0
+Distancia,3=0
+SlipPage=10
+SlipPage,F=0
+SlipPage,1=0
+SlipPage,2=0
+SlipPage,3=0
+orden_magica=10
+orden_magica,F=0
+orden_magica,1=0
+orden_magica,2=0
+orden_magica,3=0
+cantidad_operaciones=20
+cantidad_operaciones,F=0
+cantidad_operaciones,1=0
+cantidad_operaciones,2=0
+cantidad_operaciones,3=0
+espacio_entre_operaciones=20
+espacio_entre_operaciones,F=0
+espacio_entre_operaciones,1=0
+espacio_entre_operaciones,2=0
+espacio_entre_operaciones,3=0
+______============= Activar el trailing-stop y/ó breakeven, agrega el valor de umbral, paso, y marca ==============
+_______============= si no quieres utilizar estas caracteristicas, deja los valores en 0 ===============
+orden_expiracion=0
+orden_expiracion,F=0
+orden_expiracion,1=0
+orden_expiracion,2=0
+orden_expiracion,3=0
+Trailing_Stop_Umbral_Beneficio=20
+Trailing_Stop_Umbral_Beneficio,F=0
+Trailing_Stop_Umbral_Beneficio,1=0
+Trailing_Stop_Umbral_Beneficio,2=0
+Trailing_Stop_Umbral_Beneficio,3=0
+Trailing_Stop_Paso=10
+Trailing_Stop_Paso,F=0
+Trailing_Stop_Paso,1=0
+Trailing_Stop_Paso,2=0
+Trailing_Stop_Paso,3=0
+Trailing_Stop=20
+Trailing_Stop,F=0
+Trailing_Stop,1=0
+Trailing_Stop,2=0
+Trailing_Stop,3=0
+breakeven=0
+breakeven,F=0
+breakeven,1=0
+breakeven,2=0
+breakeven,3=0
+breakeven_adicional=0
+breakeven_adicional,F=0
+breakeven_adicional,1=0
+breakeven_adicional,2=0
+breakeven_adicional,3=0
+________============= Ingresa tu numero de acceso al servicio, si estas en cuenta demo puedes dejarlo en 0 y probarlo ===============
+__________============= si lo vas a usar con propositos comerciales para uso en cuenta real, por favor comunicate al siguiente correo ==============
+___________============= ------------------------devOp@paixo.info----------------------------------- =================
+Acceso_Miembro_Ballena=0
+Acceso_Miembro_Ballena,F=0
+Acceso_Miembro_Ballena,1=0
+Acceso_Miembro_Ballena,2=0
+Acceso_Miembro_Ballena,3=0
+_________============= Puedes configurar los tipos de operacion segun la estrategia zigzag combinada con fibonnaci, bear, bull, segun la nesecidad del mercado ===============
+__________________________=============== FIBONACCI//BEAR_CICLO&&BULL_CICLO(AMBOS SE USAN AL MISMO TIEMPO)//BOLLINGER_BANDAS//BOLLINGER_FIBONACCI ==============
+fractal=0
+fractal,F=0
+fractal,1=0
+fractal,2=1
+fractal,3=1
+fibonacci=1
+fibonacci,F=0
+fibonacci,1=0
+fibonacci,2=1
+fibonacci,3=1
+bear_ciclo=0
+bear_ciclo,F=0
+bear_ciclo,1=0
+bear_ciclo,2=1
+bear_ciclo,3=1
+bull_ciclo=0
+bull_ciclo,F=0
+bull_ciclo,1=0
+bull_ciclo,2=1
+bull_ciclo,3=1
+bollinger_fibonacci=0
+bollinger_fibonacci,F=0
+bollinger_fibonacci,1=0
+bollinger_fibonacci,2=1
+bollinger_fibonacci,3=1
+____________============= Selecciona las opciones adicionales de operación ===================
+_____________============= Cerrar en beneficio de sesión le permite configurar un valor total de beneficio, para cerrar las operaciones una vez se logre el limite (beneficio_de_sesion) =================
+______________============= Salir en señal opuesta, permite recibir las señales de salida segun los indicadores, para cerrar las ordenes si cambian de curso al momento de abrirse ==================
+_______________============== Operación al mercado, habilita las operaciones para que sean comercializadas al valor del mercado =================
+cerrar_en_beneficio_de_sesion=0
+cerrar_en_beneficio_de_sesion,F=0
+cerrar_en_beneficio_de_sesion,1=0
+cerrar_en_beneficio_de_sesion,2=1
+cerrar_en_beneficio_de_sesion,3=1
+salir_en_senal_opuesta=0
+salir_en_senal_opuesta,F=0
+salir_en_senal_opuesta,1=0
+salir_en_senal_opuesta,2=1
+salir_en_senal_opuesta,3=1
+operacion_al_mercado=0
+operacion_al_mercado,F=0
+operacion_al_mercado,1=0
+operacion_al_mercado,2=1
+operacion_al_mercado,3=1
+beneficio_de_sesion=0.00000000
+beneficio_de_sesion,F=0
+beneficio_de_sesion,1=0.00000000
+beneficio_de_sesion,2=0.00000000
+beneficio_de_sesion,3=0.00000000
+________________============== Configure el StopLossVirtual y el TakeProfitVirtual solo si esta realizando operaciones al mercado. ====================
+_________________________============== si esta realizando operacion con distancia STOP ó LIMIT no utilize estos valores. =============
+VSL=0
+VSL,F=0
+VSL,1=0
+VSL,2=0
+VSL,3=0
+VTP=0
+VTP,F=0
+VTP,1=0
+VTP,2=0
+VTP,3=0
+_________________=============== Selecciona un tipo de manejo de dinero para tus recursos, puedes realizar las ordenes segun los parametros de riesgo que definas ================
+__________________=============== Lote fijo, recoje los valores de StopLoss y TakeProfit para realizar la inversion en una orden no modificable =====================
+___________________=============== Porcentaje riesgo, ingresa el valor de riesgo (en porcentaje % sobre el valor total de la orden) =====================
+_____________________=============== Riesgo fijo, valor de riesgo en porcentual sobre el balance total de la cuenta ==================
+______________________================ Riesgo fijo por punto, establece un valor de riesgo del set de ordenes en puntos (Point) =====================
+tipo_de_operacion=1
+tipo_de_operacion,F=0
+tipo_de_operacion,1=0
+tipo_de_operacion,2=0
+tipo_de_operacion,3=0
+beneficio_autonomo=100.00000000
+beneficio_autonomo,F=0
+beneficio_autonomo,1=0.00000000
+beneficio_autonomo,2=0.00000000
+beneficio_autonomo,3=0.00000000
+porcentaje_riesgo=0.00000000
+porcentaje_riesgo,F=0
+porcentaje_riesgo,1=0.00000000
+porcentaje_riesgo,2=0.00000000
+porcentaje_riesgo,3=0.00000000
+riesgo_fijo=0.00000000
+riesgo_fijo,F=0
+riesgo_fijo,1=0.00000000
+riesgo_fijo,2=0.00000000
+riesgo_fijo,3=0.00000000
+riesgo_fijo_por_punto=0.00000000
+riesgo_fijo_por_punto,F=0
+riesgo_fijo_por_punto,1=0.00000000
+riesgo_fijo_por_punto,2=0.00000000
+riesgo_fijo_por_punto,3=0.00000000
+________________________================= RECUERDA REVISAR TODOS LOS VALORES SEGUN LA CLASE DE OPERACIÓN ================
