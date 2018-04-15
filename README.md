@@ -51,9 +51,8 @@
     parametros de riesgo que definas ===
     === Lote fijo, recoje los valores de StopLoss y TakeProfit para realizar la inversion en una orden 
     no modificable ===
+    === Beneficio autonomo, ingresa el valor de umbral de activacion para lotaje variable ===
     === Porcentaje riesgo, ingresa el valor de riesgo (en porcentaje % sobre el valor total de la orden) ===
-    === Radio fijo, ingresa el tamaño del lote (radio_fijo_lote) y los puntos en riesgo(radio_fijo_por) 
-    para la serie de ordenes ===
     === Riesgo fijo, valor de riesgo en porcentual sobre el balance total de la cuenta ===
     === Riesgo fijo por punto, establece un valor de riesgo del set de ordenes en puntos (Point) ===
 
