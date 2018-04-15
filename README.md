@@ -1,16 +1,16 @@
-# W h a l e PP C l u b
+    # W h a l e PP C l u b
 
-# English
-This tool is for the exclusive use of members of the Whale PP Club, an expert advisor authorized to operate on foreign market, for test purposes, it can be downloaded and used in performance tests, as well as operations in a demo account, if you require it for commercial use, please contact the Paixo Signal team to inform you about the terms of access, affiliations and licenses of use for commercial trading platforms, in MetaTrader4, MetaTrader5, NinjaTrader, ThinksOrSwim.
+    # English
+    This tool is for the exclusive use of members of the Whale PP Club, an expert advisor authorized to operate on foreign market, for test purposes, it can be downloaded and used in performance tests, as well as operations in a demo account, if you require it for commercial use, please contact the Paixo Signal team to inform you about the terms of access, affiliations and licenses of use for commercial trading platforms, in MetaTrader4, MetaTrader5, NinjaTrader, ThinksOrSwim.
 
-For more information, about other projects, ideas and developments related to providing financial solutions, you can contact us.
-DEVOP@PAIXO.INFO  
+    For more information, about other projects, ideas and developments related to providing financial solutions, you can contact us.
+    DEVOP@PAIXO.INFO  
 
-# Español
-Esta herramienta es para uso exclusivo de los miembros del Whale PP Club, un asesor experto autorizado para operar en el mercado externo, con fines de prueba, puede descargarse y usarse en pruebas de rendimiento, así como operaciones en una cuenta demo, si es para uso comercial, póngase en contacto con el equipo de Paixo Signal para informarle sobre los términos de acceso, afiliaciones y licencias de uso para plataformas comerciales, en MetaTrader4, MetaTrader5, NinjaTrader, ThinksOrSwim.
+    # Español
+    Esta herramienta es para uso exclusivo de los miembros del Whale PP Club, un asesor experto autorizado para operar en el mercado externo, con fines de prueba, puede descargarse y usarse en pruebas de rendimiento, así como operaciones en una cuenta demo, si es para uso comercial, póngase en contacto con el equipo de Paixo Signal para informarle sobre los términos de acceso, afiliaciones y licencias de uso para plataformas comerciales, en MetaTrader4, MetaTrader5, NinjaTrader, ThinksOrSwim.
 
-Para obtener más información acerca de otros proyectos, ideas y desarrollos relacionados con la provisión de soluciones financieras, puede contactarnos.
-DEVOP@PAIXO.INFO
+    Para obtener más información acerca de otros proyectos, ideas y desarrollos relacionados con la provisión de soluciones financieras, puede contactarnos.
+    DEVOP@PAIXO.INFO
 
     # v 2.0.0
     # -Set_VoT.set    *Configuracion de prueba en cuenta real
