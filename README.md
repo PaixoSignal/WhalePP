@@ -55,7 +55,30 @@
     === Porcentaje riesgo, ingresa el valor de riesgo (en porcentaje % sobre el valor total de la orden) ===
     === Riesgo fijo, valor de riesgo en porcentual sobre el balance total de la cuenta ===
     === Riesgo fijo por punto, establece un valor de riesgo del set de ordenes en puntos (Point) ===
+#ACTUALIZACION / UPDATE VoT (ADMIN_MODE)
 
+Bienvenid@ soy un asesor experto para MT4 y MT5, configurado con indicadores en bandas Bollinger, ZigZag, regresion Fibonacci, Bull, Bear, Fractales para mercados foraneos y divisas, no olvida leer sobre el manual de uso con el comando /ayuda sugerencias y dudas pueden ser resueltas en el siguiente canal @Paixo_bot.
+
+* Si usted es cliente del sistema de señales, solo recibirá notificaciones por este canal, si desea adquirir el bot completo comuníquese con nosotros por medio del siguiente canal: @Paixo_bot
+
+#2018 Paixo Signal.
+    
+    VoT(ADMIN_MODE)
+    
+    Comandos de uso:
+    inicio - Inicio de operaciones.
+    ayuda - Manual de uso.
+    informe - Informe actualizado de valores.
+    simbolo - Ajusta el simbolo a operar.
+    periodo - 1M, 5M, 15M, 30M, 1H, 4H, 1D, 1W, 1MN.
+    operaciones - Cantidad de operaciones a ejecutar.
+    tp - Tomar beneficio Take Profit.
+    sl - Detener perdida Stop Loss.
+    lotaje - Ajustar cantidad del lotaje.
+    distancia - Ajusta el tipo de orden STOP o LIMIT.
+    senales - Activar la señales para un grupo de chat establecido.
+    
+    
     o::::oooOOOoooO88888888888888888OOOOOOOOOoooooooooo:.                                                 
     .........::::::oOO888888888888OOooooOooooooooooooo::..                                                
     ....       .....oO8888888888OOOoooooo::ooooooo::oo:::..                                               
