@@ -65,8 +65,6 @@ Bienvenid@ soy un asesor experto para MT4 y MT5, configurado con indicadores en 
 | ----------------------------- | ----------------------------- | ----------------------------- |
 | ![picture](VoT_Images/1.jpg)  | ![picture](VoT_Images/2.jpg)  | ![picture](VoT_Images/3.jpg)  |
 | ![picture](VoT_Images/4.jpg)  | ![picture](VoT_Images/5.jpg)  | ![picture](VoT_Images/7.jpg)  |
-
-#2018 Paixo Signal.
     
     VoT(ADMIN_MODE)
     
