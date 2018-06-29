@@ -61,6 +61,11 @@ Bienvenid@ soy un asesor experto para MT4 y MT5, configurado con indicadores en 
 
 * Si usted es cliente del sistema de señales, solo recibirá notificaciones por este canal, si desea adquirir el bot completo comuníquese con nosotros por medio del siguiente canal: @Paixo_bot
 
+| Indicadores personalizados    | Comados de interaccion        | Informes de mercado           |
+| ----------------------------- | ----------------------------- | ----------------------------- |
+| ![picture](VoT_Images/1.jpg)  | ![picture](VoT_Images/2.jpg)  | ![picture](VoT_Images/3.jpg)  |
+| ![picture](VoT_Images/4.jpg)  | ![picture](VoT_Images/5.jpg)  | ![picture](VoT_Images/7.jpg)  |
+
 #2018 Paixo Signal.
     
     VoT(ADMIN_MODE)
