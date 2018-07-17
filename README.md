@@ -36,14 +36,11 @@ Bienvenid@ soy un asesor experto para MT4 y MT5, configurado con indicadores en 
    
 |           Screenshots            |       Capturas de pantalla       |
 | -------------------------------- | -------------------------------- |
-| ![picture](Anaigu_Images/1.gif)  | ![picture](Anaigu_Images/3.gif)  |
-| ![picture](Anaigu_Images/2.gif)  | ![picture](Anaigu_Images/4.gif)  |
+| ![picture](VoT_Images/1.gif)  | ![picture](VoT_Images/3.gif)  |
+| ![picture](VoT_Images/2.gif)  | ![picture](VoT_Images/4.gif)  |
    
     * v 2.0.0
-    * -Set_VoT.set    *Configuracion de prueba en cuenta real
-    * -SETBCK    *Configuracion de prueba en backtesting
-    * -VoT_TPL.tpl    *Plantilla de indicadores
-                   ========= VVT_EA ==========
+                   ========= VoT_EA ==========
                    ========= ASESOR EXPERTO ==
                    ========= METATRADER ======
     === Configura el tamaño del lote de acuerdo a la información de limite máximo ó minimo segun el broker ===
