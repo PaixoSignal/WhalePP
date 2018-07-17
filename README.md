@@ -1,22 +1,48 @@
-    # W h a l e PP C l u b
+# WhalePP - PaixoSignal :whale2:
 
-    # English
-    This tool is for the exclusive use of members of the Whale PP Club, an expert advisor authorized to operate on foreign market, for test purposes, it can be downloaded and used in performance tests, as well as operations in a demo account, if you require it for commercial use, please contact the Paixo Signal team to inform you about the terms of access, affiliations and licenses of use for commercial trading platforms, in MetaTrader4, MetaTrader5, NinjaTrader, ThinksOrSwim.
+### English 🇺🇸
 
-    For more information, about other projects, ideas and developments related to providing financial solutions, you can contact us.
-    DEVOP@PAIXO.INFO  
+This initiative aims to generate an automated analysis and operation tool in foreign markets, through the use of linear regression, statistics and mathematics applied to a diffuse logic module, using the Telegram platform as a communication module with the user, it can be configured, monitored, together with the market analysis, this report module is part of an initiative previously carried out by a user in MQL5, we only modify slight components to be analyzed with the indicators and strategy as a whole, the pending operations work with the system of distance for orders to the limit or stop, the doubts that may arise and suggestions please share them within the repository to modify according to the needs of the project, if you want to acquire a license of use for real platform please, contact us.
 
-    # Español
-    Esta herramienta es para uso exclusivo de los miembros del Whale PP Club, un asesor experto autorizado para operar en el mercado externo, con fines de prueba, puede descargarse y usarse en pruebas de rendimiento, así como operaciones en una cuenta demo, si es para uso comercial, póngase en contacto con el equipo de Paixo Signal para informarle sobre los términos de acceso, afiliaciones y licencias de uso para plataformas comerciales, en MetaTrader4, MetaTrader5, NinjaTrader, ThinksOrSwim.
+Welcome I am an expert advisor for MT4, configured with indicators in Bollinger, ZigZag, Fibonnacci regression, Bull, Bear, Fractals, Fractals on high frecuency and Bollinger bands with fibonnacci for foreign markets and currencies, do not forget to read about the manual of use with the command /ayuda suggestions and doubts can be resolved in the following channel @Paixo_bot.
 
-    Para obtener más información acerca de otros proyectos, ideas y desarrollos relacionados con la provisión de soluciones financieras, puede contactarnos.
-    DEVOP@PAIXO.INFO
+### Spanish 🇪🇸
 
-    # v 2.0.0
-    # -Set_VoT.set    *Configuracion de prueba en cuenta real
-    # -SETBCK    *Configuracion de prueba en backtesting
-    # -VoT_TPL.tpl    *Plantilla de indicadores
+Esta iniciativa tiene como objetivo generar una herramienta de analisis y operacion automatizada en mercados foraneos, por medio del uso de regresion linear, estadistica y matematica aplicada a un modulo de logica difusa, utiliza como modulo de comunicacion con el usuario la plataforma Telegram, puede ser configurado, monitoreado, junto con el analisis de mercado, este modulo de informe es parte de una iniciativa previamente realizada por un usuario en MQL5, solo modificamos ligeros componentes para ser analizados con los indicadores y estrategia en conjunto, las operaciones pendientes funcionan con el sistema de distancia para ordenes al limite o stop, las dudas que puedan surgir y sugerencias por favor compartanlas dentro del repositorio para modificar acorde a las nesecidades del proyecto, si desea adquirir una licencia de uso para plataforma real por favor, contactenos.
 
+Bienvenid@ soy un asesor experto para MT4 y MT5, configurado con indicadores en bandas Bollinger, ZigZag, regresion Fibonacci, Bull, Bear, Fractales, Fractales en alta frecuencia, bandas Bollinger con fibonnacci para mercados foraneos y divisas, no olvida leer sobre el manual de uso con el comando /ayuda sugerencias y dudas pueden ser resueltas en el siguiente canal @Paixo_bot.
+
+## Indicators / Indicadores 📊
+
+   * -Bollinger bands
+   * -Zig Zag
+   * -MACD
+   * -Fractal
+   * -Fibonacci
+
+## Commands / Comando de uso 🤖
+
+   * /inicio - Inicio de operaciones.
+   * /ayuda - Manual de uso.
+   * /informe - Informe actualizado de valores.
+   * /simbolo arg- Ajusta el simbolo a operar.
+   * /periodo arg- 1M, 5M, 15M, 30M, 1H, 4H, 1D, 1W, 1MN.
+   * /operaciones arg- Cantidad de operaciones a ejecutar.
+   * /tp arg - Tomar beneficio Take Profit.
+   * /sl arg- Detener perdida Stop Loss.
+   * /lotaje arg- Ajustar cantidad del lotaje.
+   * /distancia - Ajusta el tipo de orden STOP o LIMIT.
+   * /senales - Activar el sistema de señales para un grupo determinado. 
+   
+|           Screenshots            |       Capturas de pantalla       |
+| -------------------------------- | -------------------------------- |
+| ![picture](Anaigu_Images/1.gif)  | ![picture](Anaigu_Images/3.gif)  |
+| ![picture](Anaigu_Images/2.gif)  | ![picture](Anaigu_Images/4.gif)  |
+   
+    * v 2.0.0
+    * -Set_VoT.set    *Configuracion de prueba en cuenta real
+    * -SETBCK    *Configuracion de prueba en backtesting
+    * -VoT_TPL.tpl    *Plantilla de indicadores
                    ========= VVT_EA ==========
                    ========= ASESOR EXPERTO ==
                    ========= METATRADER ======
@@ -54,34 +80,7 @@
     === Beneficio autonomo, ingresa el valor de umbral de activacion para lotaje variable ===
     === Porcentaje riesgo, ingresa el valor de riesgo (en porcentaje % sobre el valor total de la orden) ===
     === Riesgo fijo, valor de riesgo en porcentual sobre el balance total de la cuenta ===
-    === Riesgo fijo por punto, establece un valor de riesgo del set de ordenes en puntos (Point) ===
-#ACTUALIZACION / UPDATE VoT (ADMIN_MODE)
-
-Bienvenid@ soy un asesor experto para MT4 y MT5, configurado con indicadores en bandas Bollinger, ZigZag, regresion Fibonacci, Bull, Bear, Fractales para mercados foraneos y divisas, no olvida leer sobre el manual de uso con el comando /ayuda sugerencias y dudas pueden ser resueltas en el siguiente canal @Paixo_bot.
-
-* Si usted es cliente del sistema de señales, solo recibirá notificaciones por este canal, si desea adquirir el bot completo comuníquese con nosotros por medio del siguiente canal: @Paixo_bot
-
-| Comandos de interaccion       | Administrador grupo de señales| Informes de mercado           |
-| ----------------------------- | ----------------------------- | ----------------------------- |
-| ![picture](VoT_Images/1.jpg)  | ![picture](VoT_Images/2.jpg)  | ![picture](VoT_Images/3.jpg)  |
-| ![picture](VoT_Images/4.jpg)  | ![picture](VoT_Images/5.jpg)  | ![picture](VoT_Images/7.jpg)  |
-    
-    VoT(ADMIN_MODE)
-    
-    Comandos de uso:
-    inicio - Inicio de operaciones.
-    ayuda - Manual de uso.
-    informe - Informe actualizado de valores.
-    simbolo - Ajusta el simbolo a operar.
-    periodo - 1M, 5M, 15M, 30M, 1H, 4H, 1D, 1W, 1MN.
-    operaciones - Cantidad de operaciones a ejecutar.
-    tp - Tomar beneficio Take Profit.
-    sl - Detener perdida Stop Loss.
-    lotaje - Ajustar cantidad del lotaje.
-    distancia - Ajusta el tipo de orden STOP o LIMIT.
-    senales - Activar la señales para un grupo de chat establecido.
-    
-    
+    === Riesgo fijo por punto, establece un valor de riesgo del set de ordenes en puntos (Point) === 
     o::::oooOOOoooO88888888888888888OOOOOOOOOoooooooooo:.                                                 
     .........::::::oOO888888888888OOooooOooooooooooooo::..                                                
     ....       .....oO8888888888OOOoooooo::ooooooo::oo:::..                                               
