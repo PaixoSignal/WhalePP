@@ -36,8 +36,8 @@ Bienvenid@ soy un asesor experto para MT4 y MT5, configurado con indicadores en 
    
 |           Screenshots            |       Capturas de pantalla       |
 | -------------------------------- | -------------------------------- |
-| ![picture](VoT_Images/1.gif)  | ![picture](VoT_Images/3.gif)  |
-| ![picture](VoT_Images/2.gif)  | ![picture](VoT_Images/4.gif)  |
+| ![picture](VoT_images/1.gif)  | ![picture](VoT_images/3.gif)  |
+| ![picture](VoT_images/2.gif)  | ![picture](VoT_images/4.gif)  |
    
     * v 2.0.0
                    ========= VoT_EA ==========
